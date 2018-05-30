@@ -1,0 +1,8 @@
+Job Scheduler program that will determine jobs that are ready to run after the completion of current job.
+
+In this case some jobs are prerequisite for some others to be completed and the level of dependency could be nested.
+
+BUILD INSTRUCTIONS:
+
+ make
+ ./Scheduler
